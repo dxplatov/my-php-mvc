@@ -1,3 +1,3 @@
 # my-php-mvc
 
-This is simple php framework based mvc design pattern.
+This is simple php framework based on mvc design pattern.
